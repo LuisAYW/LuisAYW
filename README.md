@@ -1,4 +1,4 @@
-### Hi there 👋 I am IT specialist support Oracle ONE G6
+### Hi there 👋 I am IT specialist support Oracle ONE G6 red team 
 
 <!--
 **LuisAYW/LuisAYW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
